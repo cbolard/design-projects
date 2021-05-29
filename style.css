@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Bluu Next';
-  src: url(bluunext.woff2), url(bluunext.woff);
+  src: url(assets/bluunext.woff2), url(assets/bluunext.woff);
 }
 
 body {
