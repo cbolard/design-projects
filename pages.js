@@ -14,7 +14,7 @@ let pageNumber = 0;
 //haev the content for the pages
 const pages = [
     {
-	copy : `<a href ="#">Plant life<a>`,
+	copy : `<a href ="plant-life">Plant life<a>`,
 	background : "#edc7a9",
 	circle : "#3e78ed",
     },
